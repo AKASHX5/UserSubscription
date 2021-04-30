@@ -137,7 +137,7 @@ requests==2.22.0
 requests-oauthlib==1.2.0
 RestAuth==0.6.3
 RestAuthCommon==0.7.0
-rsa==4.0
+rsa==4.7
 Rx==1.6.1
 s3transfer==0.2.1
 sge-pygame==1.5
